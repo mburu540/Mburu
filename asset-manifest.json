@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/mburu540/mburu540.github.io/static/css/main.b12a6549.css",
+    "main.js": "/mburu540/mburu540.github.io/static/js/main.e7aa8465.js",
+    "static/js/787.8045dea5.chunk.js": "/mburu540/mburu540.github.io/static/js/787.8045dea5.chunk.js",
+    "static/media/Acorn-Regular.ttf": "/mburu540/mburu540.github.io/static/media/Acorn-Regular.d5129141cad8d5ba6ad8.ttf",
+    "static/media/Qwigley-Regular.ttf": "/mburu540/mburu540.github.io/static/media/Qwigley-Regular.8454255795c01dccadba.ttf",
+    "static/media/Brother Royal.ttf": "/mburu540/mburu540.github.io/static/media/Brother Royal.fb5e4a29c16e3a275630.ttf",
+    "static/media/Aladin-Regular.ttf": "/mburu540/mburu540.github.io/static/media/Aladin-Regular.63a995a1d79432bde3dc.ttf",
+    "static/media/accumulationinvestment-svgrepo-com.svg": "/mburu540/mburu540.github.io/static/media/accumulationinvestment-svgrepo-com.b6d28c70d107316d5c231a65d8525e56.svg",
+    "static/media/carpenter-svgrepo-com.svg": "/mburu540/mburu540.github.io/static/media/carpenter-svgrepo-com.15aa20b51ceffcfabbf0746625acdc2b.svg",
+    "static/media/music-controllers-svgrepo-com.svg": "/mburu540/mburu540.github.io/static/media/music-controllers-svgrepo-com.c8babd8126217e7d690a5cc9112086ee.svg",
+    "static/media/coding-html-svgrepo-com.svg": "/mburu540/mburu540.github.io/static/media/coding-html-svgrepo-com.582e395ae22ac18a0ad6db1a37fbb335.svg",
+    "static/media/brick-wall-wall-svgrepo-com.svg": "/mburu540/mburu540.github.io/static/media/brick-wall-wall-svgrepo-com.dbbbf2130a594d6560e945848574fd3e.svg",
+    "static/media/guitar-svgrepo-com.svg": "/mburu540/mburu540.github.io/static/media/guitar-svgrepo-com.60edb230e20259d7b33393699e448e38.svg",
+    "static/media/plumbing-drink-svgrepo-com.svg": "/mburu540/mburu540.github.io/static/media/plumbing-drink-svgrepo-com.07c5bcc1fc060e0557f1e1842f841eac.svg",
+    "static/media/archicad-svgrepo-com.svg": "/mburu540/mburu540.github.io/static/media/archicad-svgrepo-com.5a78b374386263e65c0db657e5652f2b.svg",
+    "index.html": "/mburu540/mburu540.github.io/index.html",
+    "main.b12a6549.css.map": "/mburu540/mburu540.github.io/static/css/main.b12a6549.css.map",
+    "main.e7aa8465.js.map": "/mburu540/mburu540.github.io/static/js/main.e7aa8465.js.map",
+    "787.8045dea5.chunk.js.map": "/mburu540/mburu540.github.io/static/js/787.8045dea5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b12a6549.css",
+    "static/js/main.e7aa8465.js"
+  ]
+}
