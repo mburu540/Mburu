@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Qwigley';
+    src: url('../assets/fonts/Qwigley-Regular.ttf') format('ttf'),
+         url('../assets/fonts/Qwigley-Regular.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+
+    font-family: 'Aladin';
+    src:url('../assets/fonts/Aladin-Regular.ttf')format('ttf'),
+        url('../assets/fonts/Aladin-Regular.ttf')format('ttf');
+    font-weight: normal;
+    font-style: normal;
+
+    font-family: 'Brother Royal';
+    src:url('../assets/fonts/Brother Royal.ttf')format('ttf'),
+        url('../assets/fonts/Brother Royal.ttf')format('ttf');
+    font-weight: normal;
+    font-style: normal;
+
+    font-family: 'Acorn-Regular';
+    src:url('../assets/fonts/Acorn-Regular.ttf')format('ttf'),
+        url('../assets/fonts/Acorn-Regular.ttf')format('ttf');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @keyframes shiftBackground {
+    0%, 100% {
+      background-position: 0% 0%;
+    }
+    25% {
+      background-position: 100% 0%;
+    }
+    50% {
+      background-position: 100% 100%;
+    }
+    75% {
+      background-position: 0% 100%;
+    }
+  }
+  
+  .animate-background {
+    animation: shiftBackground 30s linear infinite;
+    background-size: 400% 400%;
+    transition: background 1s;
+    background-image:
+      linear-gradient(to right, #90cdf4 25%, #d6f7ff 50%, #faa6a6 75%, #9F7AEA 100%),
+      linear-gradient(to right, #ffc478 25%, #ccecf7 50%, #ffd7a6 75%, #ccecf7 100%),
+      linear-gradient(to right, #a3e7a3 25%, #a7f3d0 50%, #d1fae5 75%, #a7f3d0 100%);
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+  }
+  
